@@ -2,7 +2,7 @@
 layout: post
 title: Miguel Oliveira
 classe: Trabalhador
-background_image_path: assets/sites/insig/content2/miguel/files/Miguel7462.jpg
+background_image_path: /assets/uploads/centaur_by_yakonusuke-daiahpz2.png
 post_category: equipa
 categoria: executivo
 nome-imagem: Miguel Oliveira
